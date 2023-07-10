@@ -5,7 +5,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
 
 <head>
-  <title>Página de crear capacitacion</title>
+  <title>Pï¿½gina de crear capacitacion</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 </head>
 <body>
@@ -14,15 +14,15 @@
   <nav class="navbar navbar-default">
     <div class="container">
       <ul class="nav navbar-nav">
-        <li><a href="/EJERCICIO_GRUPAL_01_MOD_06/">Inicio</a></li>
+        <li><a href="/EJERCICIO_GRUPAL_02_MOD_06/">Inicio</a></li>
         <li><a href="#">Contacto</a></li>
-        <li class="active"><a href="/EJERCICIO_GRUPAL_01_MOD_06/capacitaciones/crear">Capacitaciones</a></li>
+        <li class="active"><a href="/EJERCICIO_GRUPAL_02_MOD_06/capacitaciones/crear">Capacitaciones</a></li>
       </ul>
     </div>
   </nav>
 </header>
 
-<!-- Cuerpo de la página -->
+<!-- Cuerpo de la pï¿½gina -->
 <div class="container mt-4">
   <h1>Crea una nueva capacitacion</h1>
   <form action="Contacto" method="post">

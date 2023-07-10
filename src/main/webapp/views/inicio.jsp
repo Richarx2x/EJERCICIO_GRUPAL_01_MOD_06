@@ -14,8 +14,8 @@
         <div class="container">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Inicio</a></li>
-                <li><a href="/EJERCICIO_GRUPAL_01_MOD_06/contacto">Contacto</a></li>
-                <li><a href="/EJERCICIO_GRUPAL_01_MOD_06/capacitaciones/crear">Capacitaciones</a></li>
+                <li><a href="/EJERCICIO_GRUPAL_02_MOD_06/contacto">Contacto</a></li>
+                <li><a href="/EJERCICIO_GRUPAL_02_MOD_06/capacitaciones/crear">Capacitaciones</a></li>
             </ul>
         </div>
     </nav>
